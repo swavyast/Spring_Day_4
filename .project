@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+<<<<<<<< HEAD:Spring_Day_4/.project
+	<name>Spring_Day_4</name>
+========
+	<name>Spring_Day_3</name>
+>>>>>>>> f62dbdda39c31f626836d7f04a63cb084d4f8ff0:Spring_Day_3/.project
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+</projectDescription>
